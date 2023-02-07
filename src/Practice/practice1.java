@@ -5,10 +5,10 @@ public class practice1
 {
 	int year;
 	
-	void firstProgram()
+	/*void firstProgram()
 	{
 		System.out.println("This is my First Program");
-	}
+	}*/
 	
 	void LeapYear(int para1)
 	{
